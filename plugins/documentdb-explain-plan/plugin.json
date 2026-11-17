@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "documentdb-explain-plan",
+  "version": "0.1.8",
+  "description": "A prototype canvas for understanding DocumentDB explain plans.",
+  "extensions": {
+    "com.github.copilot": {
+      "logo": "assets/preview.png"
+    }
+  }
+}

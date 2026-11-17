@@ -1,0 +1,14 @@
+{
+  "name": "documentdb-marketplace",
+  "owner": {
+    "name": "DocumentDB prototype"
+  },
+  "plugins": [
+    {
+      "name": "documentdb-explain-plan",
+      "source": "./plugins/documentdb-explain-plan",
+      "version": "0.1.8",
+      "description": "A prototype canvas for understanding DocumentDB explain plans."
+    }
+  ]
+}
